@@ -1,7 +1,7 @@
 # MORSE CODE SYSTEM USING STM32
 
 # Description
-    This project is developed using bare-metal programming (register-level coding) without using HAL or CubeMX libraries, providing deeper understanding of microcontroller architecture, peripheral configuration, and low-level embedded system design.
+This project is developed using bare-metal programming (register-level coding) without using HAL or CubeMX libraries, providing deeper understanding of microcontroller architecture, peripheral configuration, and low-level embedded system design.
     This project is an embedded system implementation using the STM32 microcontroller to demonstrate UART-based serial communication combined with Morse code generation.The system receives characters from a PC terminal application via UART. The received data is processed in real time by the microcontroller and converted into Morse code representation.The Morse code is displayed in two forms: Visual output using onboard LED and Textual representation sent back through UART
 
 # Hardware used
